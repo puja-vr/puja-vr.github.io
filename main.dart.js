@@ -10545,7 +10545,7 @@ return M.aH(r,new B.zb(new G.ah0(),O.alk(m,m.ghR().lk(0,"blogs")).QZ(),r,t.Lq),r
 asZ:function(a){var s=null,r="screenWidth",q=K.i4(30),p=a.P(t.w).f,o=$.fJ
 if(p.a.a>1000)p=(o==null?H.d(H.p(r)):o)*0.3
 else p=(o==null?H.d(H.p(r)):o)*0.8
-return M.aH(s,T.ei(H.a([B.ic(s,U.hl("contact/github.png",s),50,new G.ah8(),s),B.ic(s,U.hl("contact/linkedin.png",s),50,new G.ah9(),s),B.ic(s,U.hl("contact/discord.png",s),50,new G.aha(),s),B.ic(s,U.hl("contact/insta.png",s),50,new G.ahb(),s),B.ic(s,U.hl("contact/pinterest.png",s),50,new G.ahc(),s),B.ic(s,U.hl("contact/mail.png",s),50,new G.ahd(),s)],t.p),C.u,C.ad,C.w),s,s,new S.cL(C.j,s,s,q,s,s,C.W),s,new V.a7(0,10,0,10),s,p)},
+return M.aH(s,T.ei(H.a([B.ic(s,U.hl("assets/github.png",s),50,new G.ah8(),s),B.ic(s,U.hl("assets/linkedin.png",s),50,new G.ah9(),s),B.ic(s,U.hl("assets/discord.png",s),50,new G.aha(),s),B.ic(s,U.hl("assets/insta.png",s),50,new G.ahb(),s),B.ic(s,U.hl("assets/pinterest.png",s),50,new G.ahc(),s),B.ic(s,U.hl("assets/mail.png",s),50,new G.ahd(),s)],t.p),C.u,C.ad,C.w),s,s,new S.cL(C.j,s,s,q,s,s,C.W),s,new V.a7(0,10,0,10),s,p)},
 agZ:function agZ(a){this.a=a},
 ah0:function ah0(){},
 ah_:function ah_(){},
@@ -10581,7 +10581,7 @@ aH9:function(a){var s=null,r="screenWidth",q=a.P(t.w).f,p=$.fJ
 if(q.a.a>1000)q=(p==null?H.d(H.p(r)):p)*0.32
 else q=(p==null?H.d(H.p(r)):p)*0.8
 p=P.b8(0,0,1000,0,0)
-return M.aH(s,T.cf(M.Do(new G.ahm(),H.a([G.D4("stJosephs.png","St. Joseph's Institute of Technology",new G.ahn(),"2019 - 2023"),G.D4("Shirs.png","Sushil Hari International HSS",new G.aho(),"2017 - 2019"),G.D4("Ashram.png","The Ashram Matriculation HSS",new G.ahp(),"2004 - 2017")],t.p),p),C.bG,C.az,C.w),s,s,s,s,s,s,q)},
+return M.aH(s,T.cf(M.Do(new G.ahm(),H.a([G.D4("assets/stJosephs.png","St. Joseph's Institute of Technology",new G.ahn(),"2019 - 2023"),G.D4("assets/Shirs.png","Sushil Hari International HSS",new G.aho(),"2017 - 2019"),G.D4("assets/Ashram.png","The Ashram Matriculation HSS",new G.ahp(),"2004 - 2017")],t.p),p),C.bG,C.az,C.w),s,s,s,s,s,s,q)},
 D4:function(a,b,c,d){var s=null,r=K.i4(30),q=K.i4(15),p=t.p
 return V.UK(T.ei(H.a([M.aH(s,s,s,s,new S.cL(s,X.aoy(C.c4,new L.ma(a,s,s)),s,q,s,s,C.W),100,new V.a7(15,15,0,15),s,100),T.cf(H.a([new T.cg(new V.a7(0,20,20,5),L.cF(b,s,s,s,s,s,s,s,s),s),L.cF(d,s,s,s,s,s,s,s,s),T.dU(s,20,s),new T.cg(C.pY,U.akY(L.cF("Visit",s,s,s,s,s,s,s,s),new G.aie(c),s),s)],p),C.u,C.ll,C.w)],p),C.u,C.hD,C.w),C.a8,0,new V.a7(10,10,10,10),new X.cT(r,C.t))},
 ata:function(a){var s,r=null,q=A.D1("EDUCATION"),p=t.w
@@ -10611,7 +10611,7 @@ aHP:function(a){var s,r,q=null,p="Java Swing",o=$.fJ
 if(o==null)o=H.d(H.p("screenWidth"))
 s=P.b8(0,0,1000,0,0)
 r=t.p
-return M.aH(q,T.cf(M.Do(new G.aiv(),H.a([T.ei(H.a([G.atq("grid1.jpg"),G.oI("An e-commerce application","Flutter","Gruha Mart"),G.oI(u.g,"Python","Screen Shot Saver")],r),C.u,C.az,C.w),T.ei(H.a([G.oI("A basic music player with a playlist",p,"Music Player"),G.oI("Manages areas and the places inside it",p,"Area and Place Locator"),G.atq("grid2.jpg")],r),C.u,C.az,C.w)],r),s),C.u,C.az,C.w),q,q,q,q,q,q,o*0.75)},
+return M.aH(q,T.cf(M.Do(new G.aiv(),H.a([T.ei(H.a([G.atq("assets/grid1.jpg"),G.oI("An e-commerce application","Flutter","Gruha Mart"),G.oI(u.g,"Python","Screen Shot Saver")],r),C.u,C.az,C.w),T.ei(H.a([G.oI("A basic music player with a playlist",p,"Music Player"),G.oI("Manages areas and the places inside it",p,"Area and Place Locator"),G.atq("assets/grid2.jpg")],r),C.u,C.az,C.w)],r),s),C.u,C.az,C.w),q,q,q,q,q,q,o*0.75)},
 oI:function(a,b,c){var s=null,r=F.DM(C.a8,2)
 return M.aH(s,T.cf(H.a([L.cF(c+"\n",s,s,s,s,A.dn(s,s,C.a8,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s),C.bz,s,s),L.cF(a+"\n",s,s,s,s,A.dn(s,s,C.j,s,s,s,s,s,s,s,s,15,s,s,s,1.5,!0,s,s,s,s,s,s,s),C.bz,s,s),L.cF(b,s,s,s,s,A.dn(s,s,C.a8,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s),s,s,s)],t.p),C.u,C.az,C.w),s,s,new S.cL(C.jO,s,r,s,s,s,C.W),200,s,new V.a7(15,15,15,15),300)},
 atq:function(a){var s=null,r=F.DM(C.a8,2)

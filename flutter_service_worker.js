@@ -3,14 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3fc1519e702b6502563899bf1949560c",
+  "assets/AssetManifest.json": "d0feaf532ea40beb607e07162dcbb0c3",
 "assets/assets/Ashram.png": "856b6fe94eb293715f2f60be06f35933",
 "assets/assets/certifications.jpg": "6e557e9a5c9df6a4fbf9cde82046f17b",
+"assets/assets/close.png": "8b94047fd3e8bbac4b2b09843761d862",
+"assets/assets/discord.png": "5e0e0788032a79237de11d8f764688e7",
 "assets/assets/drawer.png": "26dbc8c5eea8dc9321500d3c4eb7bf7d",
 "assets/assets/education.jpg": "06fcdf19ac8934421f1627e7cdd2713b",
+"assets/assets/github.png": "91fa42f3204d10eed9ecf61ce06cb4f6",
 "assets/assets/grid1.jpg": "914e788e793eca25270f9cc282d8d412",
 "assets/assets/grid2.jpg": "d5f7a894a8d37172772d5183f18492aa",
 "assets/assets/home.jpg": "732391c1df1535294becf846c332f174",
+"assets/assets/insta.png": "2ceac1ee252efc4efb99f0a49828add3",
+"assets/assets/linkedin.png": "898c0407d74c75fa110de76293d96ddd",
+"assets/assets/mail.png": "32f539f9f77e4e3a1825b74f21e15419",
+"assets/assets/pinterest.png": "af9bc6311e63a1eb09ad86d71ebecdce",
 "assets/assets/Shirs.png": "46c07486544afb5bdb13a91811335bbf",
 "assets/assets/skills.jpg": "0f6566074f51056cf9becd87d33fbebb",
 "assets/assets/stJosephs.png": "008556082327aa62471d66d19af8ebeb",
@@ -22,9 +29,9 @@ const RESOURCES = {
 "favicon1.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "eafe4c659ab4ec7f3b228160e7efd3e5",
-"/": "eafe4c659ab4ec7f3b228160e7efd3e5",
-"main.dart.js": "4182bdeeb408881e8356bb1228c7f395",
+"index.html": "001db746e9c89db6da9e02336c5f6487",
+"/": "001db746e9c89db6da9e02336c5f6487",
+"main.dart.js": "3364ee257350858893b21ce1c40f5a2e",
 "manifest.json": "514ea445bba3c4e28d982ddf8451be76",
 "version.json": "8fec7422cd1a3aceb58c4ac51bc3c76a"
 };
