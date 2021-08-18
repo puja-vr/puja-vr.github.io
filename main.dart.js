@@ -10600,7 +10600,7 @@ else q=(p==null?H.d(H.p(r)):p)*0.8
 p=P.b8(0,0,1000,0,0)
 return M.aH(s,T.cg(M.Dp(new G.aht(),H.a([G.D5("assets/stJosephs.png","St. Joseph's Institute of Technology",new G.ahu(),"2019 - 2023"),G.D5("assets/Shirs.png","Sushil Hari International HSS",new G.ahv(),"2017 - 2019"),G.D5("assets/Ashram.png","The Ashram Matriculation HSS",new G.ahw(),"2004 - 2017")],t.p),p),C.bH,C.az,C.w),s,s,s,s,s,s,q)},
 D5:function(a,b,c,d){var s=null,r=K.i5(30),q=K.i5(15),p=t.p
-return V.UL(T.ei(H.a([M.aH(s,s,s,s,new S.bN(s,X.aoH(C.c7,new L.mb(a,s,s)),s,q,s,s,C.L),100,new V.a7(15,15,0,15),s,100),T.cg(H.a([new T.ch(new V.a7(0,20,20,5),L.cG(b,s,s,s,s,s,s,s,s),s),L.cG(d,s,s,s,s,s,s,s,s),T.dU(s,20,s),new T.ch(C.pZ,U.al5(L.cG("Visit",s,s,s,s,s,s,s,s),new G.ail(c),s),s)],p),C.u,C.ln,C.w)],p),C.u,C.hH,C.w),C.Z,0,new V.a7(10,10,10,10),new X.cU(r,C.t))},
+return V.UL(T.ei(H.a([M.aH(s,s,s,s,new S.bN(s,X.aoH(C.c7,new L.mb(a,s,s)),s,q,s,s,C.L),100,new V.a7(15,15,0,15),s,100),T.cg(H.a([new T.ch(new V.a7(0,20,20,5),L.cG(b,s,s,s,!0,s,s,s,s),s),L.cG(d,s,s,s,s,s,s,s,s),T.dU(s,20,s),new T.ch(C.pZ,U.al5(L.cG("Visit",s,s,s,s,s,s,s,s),new G.ail(c),s),s)],p),C.u,C.ln,C.w)],p),C.u,C.hH,C.w),C.Z,0,new V.a7(10,10,10,10),new X.cU(r,C.t))},
 atl:function(a){var s,r=null,q=A.D2("EDUCATION"),p=t.w
 if(a.P(p).f.a.a>1000){s=$.fK
 s=(s==null?H.d(H.p("screenWidth")):s)*0.3}else s=r
