@@ -10532,22 +10532,37 @@ DJ:function DJ(){},
 U1:function U1(){},
 U2:function U2(){},
 at2:function(a){return T.ei(H.a([A.D2("MY BLOGS"),new T.ch(new V.a7(0,20,0,20),new R.mu("ADD BLOG",new G.ah5(a),C.Z,C.l,null),null)],t.p),C.u,C.hH,C.w)},
-at3:function(a){var s,r=null,q="screenWidth",p="screenHeight",o=t.w,n=a.P(o).f,m=$.fK
-if(n.a.a<1000)n=(m==null?H.d(H.p(q)):m)*0.8
-else n=(m==null?H.d(H.p(q)):m)*0.75
-o=a.P(o).f
-m=$.qZ
-if(o.a.a<1000)o=(m==null?H.d(H.p(p)):m)*0.65
-else o=(m==null?H.d(H.p(p)):m)*0.6
-m=$.bI
-s=(m==null?$.bI=$.e6():m).ef(0,"[DEFAULT]")
-E.cp(s,$.dx())
-m=O.ak9(new K.cT(s))
-return M.aH(r,new B.zc(new G.ah7(),O.als(m,m.ghR().lk(0,"blogs")).R1(),r,t.Lq),r,r,r,o,r,r,n)},
-at9:function(a){var s=null,r="screenWidth",q=K.i5(30),p=a.P(t.w).f,o=$.fK
-if(p.a.a>1000)p=(o==null?H.d(H.p(r)):o)*0.3
-else p=(o==null?H.d(H.p(r)):o)*0.8
-return M.aH(s,T.ei(H.a([B.id(s,U.hm("assets/github.png",s),50,new G.ahf(),s),B.id(s,U.hm("assets/linkedin.png",s),50,new G.ahg(),s),B.id(s,U.hm("assets/discord.png",s),50,new G.ahh(),s),B.id(s,U.hm("assets/insta.png",s),50,new G.ahi(),s),B.id(s,U.hm("assets/pinterest.png",s),50,new G.ahj(),s),B.id(s,U.hm("assets/mail.png",s),50,new G.ahk(),s)],t.p),C.u,C.ad,C.w),s,s,new S.bN(C.j,s,s,q,s,s,C.L),s,new V.a7(0,10,0,10),s,p)},
+at3:function(a){var s,r,q=null,p="screenWidth",o=a.P(t.w).f,n=$.fK
+if(o.a.a<1000)o=(n==null?H.d(H.p(p)):n)*0.8
+else o=(n==null?H.d(H.p(p)):n)*0.75
+n=$.qZ
+if(n==null)n=H.d(H.p("screenHeight"))
+s=$.bI
+r=(s==null?$.bI=$.e6():s).ef(0,"[DEFAULT]")
+E.cp(r,$.dx())
+s=O.ak9(new K.cT(r))
+return M.aH(q,new B.zc(new G.ah7(),O.als(s,s.ghR().lk(0,"blogs")).R1(),q,t.Lq),q,q,q,n*0.6,q,q,o)},
+at9:function(a){var s,r,q,p,o,n,m,l=null,k="screenWidth",j=a.P(t.w).f.a.a>1000,i=K.i5(30),h=$.fK
+if(j)h=(h==null?H.d(H.p(k)):h)*0.3
+else h=(h==null?H.d(H.p(k)):h)*0.8
+s=U.hm("assets/github.png",l)
+r=j?50:30
+r=B.id(l,s,r,new G.ahf(),l)
+s=U.hm("assets/linkedin.png",l)
+q=j?50:30
+q=B.id(l,s,q,new G.ahg(),l)
+s=U.hm("assets/discord.png",l)
+p=j?50:30
+p=B.id(l,s,p,new G.ahh(),l)
+s=U.hm("assets/insta.png",l)
+o=j?50:30
+o=B.id(l,s,o,new G.ahi(),l)
+s=U.hm("assets/pinterest.png",l)
+n=j?50:30
+n=B.id(l,s,n,new G.ahj(),l)
+s=U.hm("assets/mail.png",l)
+m=j?50:30
+return M.aH(l,T.ei(H.a([r,q,p,o,n,B.id(l,s,m,new G.ahk(),l)],t.p),C.u,C.ad,C.w),l,l,new S.bN(C.j,l,l,i,l,l,C.L),l,new V.a7(0,10,0,10),l,h)},
 ah5:function ah5(a){this.a=a},
 ah7:function ah7(){},
 ah6:function ah6(){},
@@ -20038,7 +20053,7 @@ _.c=null},
 aa_:function aa_(a){this.a=a},
 Cz:function Cz(){},
 aI_:function(a){var s=null,r=H.a([C.j,C.l],t.t_),q=H.a([0.55,0.7],t.W),p=t.p
-return M.aH(s,T.cg(H.a([G.atl(a),O.aop(H.a([G.D5("stJosephs.png","St. Joseph's Institute of Technology",new Y.aiF(),"2019 - 2023"),G.D5("Shirs.png","Sushil Hari International HSS",new Y.aiG(),"2017 - 2019"),G.D5("Ashram.png","The Ashram Matriculation HSS",new Y.aiH(),"2004 - 2017")],p),B.aoo(!0,!0,150,0.8))],p),C.u,C.ad,C.w),s,s,new S.bN(s,s,s,s,s,new T.f1(C.c5,C.c4,C.aC,r,q,s),C.L),s,s,s,s)},
+return M.aH(s,T.cg(H.a([G.atl(a),O.aop(H.a([G.D5("assets/stJosephs.png","St. Joseph's Institute of Technology",new Y.aiF(),"2019 - 2023"),G.D5("assets/Shirs.png","Sushil Hari International HSS",new Y.aiG(),"2017 - 2019"),G.D5("assets/Ashram.png","The Ashram Matriculation HSS",new Y.aiH(),"2004 - 2017")],p),B.aoo(!0,!0,150,0.8))],p),C.u,C.ad,C.w),s,s,new S.bN(s,s,s,s,s,new T.f1(C.c5,C.c4,C.aC,r,q,s),C.L),s,s,s,s)},
 aiF:function aiF(){},
 aiG:function aiG(){},
 aiH:function aiH(){}},K={
@@ -67388,7 +67403,7 @@ l=H.a([p,n,r,m,M.aH(j,T.cg(H.a([G.at5(b),G.at6(b)],o),C.u,C.ad,C.w),j,j,new S.bN
 k=D.HS(0,1.1)
 q=K.i5(15)
 s=F.DN(C.j,1.5)
-o=M.aH(j,new Z.FB(B.apE(H.a([M.aH(j,j,j,j,new S.bN(j,X.aoH(C.jp,new L.mb("drawer.png",j,j)),s,q,j,j,C.L),100,new V.a7(20,20,20,20),j,j),T.cg(A.atJ(k),C.u,C.aO,C.w)],o),new V.a7(0,30,0,0),C.k),j),C.Z,j,j,j,j,j,175)
+o=M.aH(j,new Z.FB(B.apE(H.a([M.aH(j,j,j,j,new S.bN(j,X.aoH(C.jp,new L.mb("assets/drawer.png",j,j)),s,q,j,j,C.L),100,new V.a7(20,20,20,20),j,j),T.cg(A.atJ(k),C.u,C.aO,C.w)],o),new V.a7(0,30,0,0),C.k),j),C.Z,j,j,j,j,j,175)
 return M.a56(new E.uK(new P.P(1/0,56),j),C.Z,D.aq2(l,k,!1,C.k),o,!0)}}
 D.KW.prototype={
 J:function(a,b){var s=P.xr(C.hQ,C.i,this.d)
